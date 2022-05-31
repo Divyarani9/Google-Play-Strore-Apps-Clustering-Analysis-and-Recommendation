@@ -8,5 +8,5 @@ Android is an operating system expanding throughout the years. It has aquired 71
 
 # Techniques used:
 1. Done necessary exploaratory data analysis and feature engineering on the dataset. 
-2. Applied Unsupervised machine learning techniques like K-Means, Agglomerative, DBScan techniques for clustering the apps based several factors 
+2. Applied Unsupervised machine learning techniques like K-Means, Agglomerative, DBScan techniques for clustering the apps based on several factors 
 3. Used recommendation systems to recommend the apps to the users based on the popularity and content of the apps.
